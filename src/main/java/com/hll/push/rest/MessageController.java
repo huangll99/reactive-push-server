@@ -1,6 +1,5 @@
 package com.hll.push.rest;
 
-import com.alibaba.fastjson.JSON;
 import com.hll.push.model.Message;
 import com.hll.push.model.Result;
 import com.hll.push.repository.MessageRepository;
