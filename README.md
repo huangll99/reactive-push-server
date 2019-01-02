@@ -1,2 +1,2 @@
 # reactive-push-server
-![](./doc/design.png)
+![](https://github.com/huangll99/reactive-push-server/blob/master/doc/disign.png)
